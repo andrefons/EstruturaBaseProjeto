@@ -1,0 +1,9 @@
+D:\Desenvolvimento\ApfTecnologia\Projetos\EstruturaBase\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\Desenvolvimento\ApfTecnologia\Projetos\EstruturaBase\Core\bin\Debug\netstandard2.0\Core.dll
+D:\Desenvolvimento\ApfTecnologia\Projetos\EstruturaBase\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\Desenvolvimento\ApfTecnologia\Projetos\EstruturaBase\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\Desenvolvimento\ApfTecnologia\Projetos\EstruturaBase\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\ApfTecnologia\Projetos\EstruturaBase\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\Desenvolvimento\ApfTecnologia\Projetos\EstruturaBase\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\Desenvolvimento\ApfTecnologia\Projetos\EstruturaBase\Core\obj\Debug\netstandard2.0\Core.dll
+D:\Desenvolvimento\ApfTecnologia\Projetos\EstruturaBase\Core\obj\Debug\netstandard2.0\Core.pdb
